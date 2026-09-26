@@ -1,0 +1,4 @@
+﻿Team Member Contribution
+========================
+Implemented initial inventory management functionality.
+Prepared project structure and documentation.
